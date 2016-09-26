@@ -1,0 +1,17 @@
+﻿{
+	"sProcessing": "Proszę czekać",
+	"sLengthMenu": "_MENU_",
+	"sZeroRecords": "Nie znaleziono pozycji",
+	"sInfo": "_START_ do _END_ z _TOTAL_ pozycji.",
+	"sInfoEmpty": "Brak pozycji o podanych kryteriach.",
+	"sInfoFiltered": "",
+	"sInfoPostFix": "",
+	"sSearch": "Szukaj",
+	"sUrl": "",
+	"oPaginate": {
+		"sFirst":    "Pierwsza",
+		"sPrevious": "Poprzednia",
+		"sNext":     "Następna",
+		"sLast":     "Ostatnia"
+	}
+}
